@@ -1,0 +1,12 @@
+﻿# Mark React source as JavaScript for GitHub language detection.
+*.jsx linguist-language=JavaScript
+*.tsx linguist-language=TypeScript
+
+# Preserve the supplied source references without letting them dominate the language bar.
+**/references/** linguist-vendored
+frontend/public/aarogya-graphs.html linguist-vendored
+
+# Exclude generated and vendored data assets from language statistics.
+**/node_modules/** linguist-vendored
+**/dist/** linguist-generated
+backend/data/original-atlas-data/** linguist-vendored

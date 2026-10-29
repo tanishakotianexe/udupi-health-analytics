@@ -1,0 +1,29 @@
+{
+  "rows_original": 132120,
+  "years": [
+    "2008-09",
+    "2009-10",
+    "2010-11",
+    "2011-12",
+    "2012-13",
+    "2013-14",
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22"
+  ],
+  "indicators_original": 601,
+  "missing_values_original": 24845,
+  "value_rows_original": 107275,
+  "provisional_rows": 39600,
+  "aggregate_rows": 43020,
+  "aggregate_indicators": 589,
+  "aggregate_missing_values": 6642,
+  "aggregate_nonmissing_values": 36378,
+  "aggregate_rule": "category=Total and facility_category=Public and Private Facilities OR Rural and Urban Facilities",
+  "period_note": "Fiscal years 2008-09 through 2021-22 inclusive."
+}

@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: udupi-health-analytics-demo
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile.render
+    dockerContext: .
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production

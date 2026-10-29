@@ -1,0 +1,3488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>UDUPI DIST HEALTH UNITS</name>
+    <description/>
+    <Style id="icon-1808-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1808-0F9D58-labelson">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1808-880E4F-labelson">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1808-F57C00-labelson">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-1267FF-5000-nodesc-normal">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-1267FF-5000-nodesc-highlight">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>7.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-1267FF-5000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-1267FF-5000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-1267FF-5000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Brahmavara</name>
+      <Placemark>
+        <name>             Bidkalkatte</name>
+        <description><![CDATA[FID: 67<br>SL_NO: 73<br>TALUK_NAME: BRAHMAVARA<br>ADDRESS: Administrator Medical Officer,PHC Bidkalkatte, Near Bus Stand, Kundapura Taluk, Udupi Dist, Pin-<br>LATITUDE: 13.5848<br>LONGITUDE: 74.7979<br>PHC_CHC: PHC<br>PHC_CHC_dis:              Bidkalkatte - PHC]]></description>
+        <styleUrl>#icon-1808-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>67.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>73.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>BRAHMAVARA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Bidkalkatte, Near Bus Stand, Kundapura Taluk, Udupi Dist, Pin-</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.5848</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.7979</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_dis">
+            <value>             Bidkalkatte - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.7979,13.5848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Kundapura</name>
+      <Placemark>
+        <name>    Kundapura GH</name>
+        <description><![CDATA[FID: 44<br>SL_NO: 46<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer ,GH Kundapura, OPP: Parijatha Circle Kundapura Taluk, Udupi Dist<br>LATITUDE: 13.6478<br>LONGITUDE: 74.6711<br>PHC_CHC: GH TALUK KUNDAPURA<br>PHC_CHC_DISP: GH TALUK KUNDAPURA]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>44.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>46.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer ,GH Kundapura, OPP: Parijatha Circle Kundapura Taluk, Udupi Dist</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.6478</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.6711</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>GH TALUK KUNDAPURA</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>GH TALUK KUNDAPURA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.6711,13.6478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    KODI</name>
+        <description><![CDATA[FID: 45<br>SL_NO: 47<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Kodi, Near Bearys School Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.6275<br>LONGITUDE: 74.6878<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Kundapura GH - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>45.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>47.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Kodi, Near Bearys School Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.6275</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.6878</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Kundapura GH - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.6878,13.6275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    KOTESHWARA</name>
+        <description><![CDATA[FID: 46<br>SL_NO: 48<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Koteshwara, Haladi Road, Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.59<br>LONGITUDE: 74.6983<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     KODI - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>46.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>48.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Koteshwara, Haladi Road, Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.59</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.6983</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    KODI - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.6983,13.59,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Kumbhashi</name>
+        <description><![CDATA[FID: 47<br>SL_NO: 49<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Kumbashi, Near Kumbashi Temple Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.5658<br>LONGITUDE: 74.701<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     KOTESHWARA - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>47.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>49.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Kumbashi, Near Kumbashi Temple Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.5658</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.701</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    KOTESHWARA - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.701,13.5658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Basrur</name>
+        <description><![CDATA[FID: 48<br>SL_NO: 50<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Basroor,Near Bus Stand, Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.3842<br>LONGITUDE: 74.738<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Kumbhashi - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>48.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>50.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Basroor,Near Bus Stand, Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.3842</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.738</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Kumbhashi - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.738,13.3842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Byndoor</name>
+        <description><![CDATA[FID: 49<br>SL_NO: 51<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer CHC Byndoor, Opp: Govt Junior College, Byndoor, Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.8709<br>LONGITUDE: 74.6265<br>PHC_CHC: CHC<br>PHC_CHC_DISP:     Basrur - CHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>49.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>51.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer CHC Byndoor, Opp: Govt Junior College, Byndoor, Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.8709</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.6265</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>CHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Basrur - CHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.6265,13.8709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Kirimanjeshwara</name>
+        <description><![CDATA[FID: 50<br>SL_NO: 52<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Kirimanjeshwara, Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.7883<br>LONGITUDE: 74.638<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Byndoor - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>50.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>52.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Kirimanjeshwara, Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.7883</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.638</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Byndoor - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.638,13.7883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Maravanthe</name>
+        <description><![CDATA[FID: 51<br>SL_NO: 53<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Maravanthe, Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.6583<br>LONGITUDE: 74.638<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Kirimanjeshwara - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>51.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>53.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Maravanthe, Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.6583</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.638</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Kirimanjeshwara - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.638,13.6583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Gangolli</name>
+        <description><![CDATA[FID: 52<br>SL_NO: 54<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Gangolli, Opp Syndicate Bank, Gangolli, Kundapura Taluk, Udupi Dist.<br>LATITUDE: 13.7013<br>LONGITUDE: 74.6434<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Maravanthe - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>52.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>54.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Gangolli, Opp Syndicate Bank, Gangolli, Kundapura Taluk, Udupi Dist.</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.7013</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.6434</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Maravanthe - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.6434,13.7013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Nada</name>
+        <description><![CDATA[FID: 53<br>SL_NO: 55<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Nada, Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.715<br>LONGITUDE: 74.6487<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Gangolli - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>53.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>55.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Nada, Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.715</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.6487</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Gangolli - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.6487,13.715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Kollur</name>
+        <description><![CDATA[FID: 54<br>SL_NO: 56<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Kollur, Near Bus Stand, Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.8615<br>LONGITUDE: 74.8099<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Nada - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>54.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>56.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Kollur, Near Bus Stand, Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.8615</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.8099</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Nada - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.8099,13.8615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Vandse</name>
+        <description><![CDATA[FID: 55<br>SL_NO: 57<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Vandse, Near Grama Panchayath Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.7047<br>LONGITUDE: 74.761<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Kollur - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>55.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>57.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Vandse, Near Grama Panchayath Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.7047</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.761</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Kollur - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.761,13.7047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Aloor</name>
+        <description><![CDATA[FID: 56<br>SL_NO: 58<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Aloor, Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.676<br>LONGITUDE: 74.7204<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Vandse - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>56.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>58.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Aloor, Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.676</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.7204</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Vandse - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.7204,13.676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    HAKLADY</name>
+        <description><![CDATA[FID: 57<br>SL_NO: 59<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Hakladi, Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.6986<br>LONGITUDE: 74.7112<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Aloor - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>57.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>59.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Hakladi, Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.6986</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.7112</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Aloor - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.7112,13.6986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Siddapura</name>
+        <description><![CDATA[FID: 58<br>SL_NO: 60<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Siddapura, Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.6658<br>LONGITUDE: 74.9144<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     HAKLADY - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>58.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>60.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Siddapura, Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.6658</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.9144</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    HAKLADY - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.9144,13.6658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Shankaranarayana</name>
+        <description><![CDATA[FID: 59<br>SL_NO: 61<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Hakladi, Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.7016<br>LONGITUDE: 74.6885<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Siddapura - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>59.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>61.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Hakladi, Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.7016</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.6885</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Siddapura - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.6885,13.7016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    KANDLURU</name>
+        <description><![CDATA[FID: 60<br>SL_NO: 62<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Kandloor, Near Bus Stand, Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.3842<br>LONGITUDE: 74.738<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Shankaranarayana - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>60.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>62.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Kandloor, Near Bus Stand, Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.3842</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.738</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Shankaranarayana - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.738,13.3842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    HALLIHOLE</name>
+        <description><![CDATA[FID: 61<br>SL_NO: 63<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Hallihole, Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.7402<br>LONGITUDE: 74.902<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     KANDLURU - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>61.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>63.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Hallihole, Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.7402</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.902</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    KANDLURU - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.902,13.7402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Haladi</name>
+        <description><![CDATA[FID: 62<br>SL_NO: 65<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Haladi, Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.5791<br>LONGITUDE: 74.8608<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     HALLIHOLE - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>62.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>65.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Haladi, Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.5791</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.8608</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    HALLIHOLE - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.8608,13.5791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Belve</name>
+        <description><![CDATA[FID: 63<br>SL_NO: 66<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Belve, Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.5279<br>LONGITUDE: 74.9218<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Haladi - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>63.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>66.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Belve, Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.5279</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.9218</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Haladi - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.9218,13.5279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Korgi</name>
+        <description><![CDATA[FID: 64<br>SL_NO: 67<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Korgi, Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.5665<br>LONGITUDE: 74.7664<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Belve - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>64.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>67.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Korgi, Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.5665</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.7664</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Belve - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.7664,13.5665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Kedur</name>
+        <description><![CDATA[FID: 65<br>SL_NO: 68<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Kedoor, Near Govt Primary School Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.5546<br>LONGITUDE: 74.74<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Korgi - PHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>65.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>68.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Kedoor, Near Govt Primary School Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.5546</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.74</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Korgi - PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.74,13.5546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Shiroor</name>
+        <description><![CDATA[FID: 66<br>SL_NO: 69<br>TALUK_NAME: KUNDAPURA<br>ADDRESS: Administrator Medical Officer,PHC Shiroor, Near Grama Panchayath, Kundapura Taluk, Udupi Dist,<br>LATITUDE: 13.9146<br>LONGITUDE: 74.6028<br>PHC_CHC: CHC<br>PHC_CHC_DISP:     Kedur - CHC]]></description>
+        <styleUrl>#icon-1808-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>66.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>69.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KUNDAPURA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Shiroor, Near Grama Panchayath, Kundapura Taluk, Udupi Dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.9146</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.6028</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>CHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Kedur - CHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.6028,13.9146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Udupi</name>
+      <Placemark>
+        <name>     District Hosp.Udupi</name>
+        <description><![CDATA[FID: 0<br>SL_NO: 1<br>TALUK_NAME: UDUPI<br>ADDRESS: Ajjarkadu Hospital Compound,  Near DHO- Office, Udupi.<br>LATITUDE: 13.3339<br>LONGITUDE: 74.7415<br>PHC_CHC: DHO<br>PHC_NAME_disp:      District Hosp.Udupi -  DHO]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>0.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>1.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Ajjarkadu Hospital Compound,  Near DHO- Office, Udupi.</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.3339</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.7415</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>DHO</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     District Hosp.Udupi -  DHO</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.7415,13.3339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Kemmannu</name>
+        <description><![CDATA[FID: 1<br>SL_NO: 2<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Kemmannu-Udupi Dist .<br>LATITUDE: 13.3994<br>LONGITUDE: 74.7087<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Kemmannu -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>1.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>2.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Kemmannu-Udupi Dist .</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.3994</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.7087</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Kemmannu -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.7087,13.3994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Brahmavara</name>
+        <description><![CDATA[FID: 2<br>SL_NO: 3<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer, CHC Brahmavar,Near  Bus Stand - Udupi Dist- 576213<br>LATITUDE: 13.4319<br>LONGITUDE: 74.7426<br>PHC_CHC: CHC<br>PHC_NAME_disp:      Brahmavara -  CHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>2.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>3.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer, CHC Brahmavar,Near  Bus Stand - Udupi Dist- 576213</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.4319</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.7426</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>CHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Brahmavara -  CHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.7426,13.4319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Kota</name>
+        <description><![CDATA[FID: 3<br>SL_NO: 4<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer ,CHC Kota Near Police Station Udupi Dist<br>LATITUDE: 13.5231<br>LONGITUDE: 74.7048<br>PHC_CHC: CHC<br>PHC_NAME_disp:      Kota -  CHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>3.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>4.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer ,CHC Kota Near Police Station Udupi Dist</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.5231</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.7048</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>CHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Kota -  CHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.7048,13.5231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Moodubettu</name>
+        <description><![CDATA[FID: 4<br>SL_NO: 5<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Moodabettu Udupi Dist<br>LATITUDE: 13.2716<br>LONGITUDE: 74.7518<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Moodubettu -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>4.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>5.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Moodabettu Udupi Dist</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.2716</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.7518</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Moodubettu -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.7518,13.2716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Malpe</name>
+        <description><![CDATA[FID: 5<br>SL_NO: 6<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Malpe-Udupi Dist<br>LATITUDE: 13.3332<br>LONGITUDE: 74.7429<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Malpe -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>5.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>6.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Malpe-Udupi Dist</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.3332</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.7429</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Malpe -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.7429,13.3332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Shirva</name>
+        <description><![CDATA[FID: 6<br>SL_NO: 7<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer  ,CHC Shirva- Udupi Dist-<br>LATITUDE: 13.2204<br>LONGITUDE: 74.8203<br>PHC_CHC: CHC<br>PHC_NAME_disp:      Shirva -  CHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>6.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>7.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer  ,CHC Shirva- Udupi Dist-</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.2204</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.8203</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>CHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Shirva -  CHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.8203,13.2204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Kodibengre</name>
+        <description><![CDATA[FID: 7<br>SL_NO: 8<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC kodibengre- Udupi dist<br>LATITUDE: 13.4383<br>LONGITUDE: 74.6946<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Kodibengre -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>7.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>8.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC kodibengre- Udupi dist</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.4383</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.6946</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Kodibengre -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.6946,13.4383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Manipura</name>
+        <description><![CDATA[FID: 8<br>SL_NO: 9<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Manipura, Udupi dist,<br>LATITUDE: 13.3551<br>LONGITUDE: 74.8547<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Manipura -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>8.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>9.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Manipura, Udupi dist,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.3551</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.8547</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Manipura -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.8547,13.3551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Pernankila</name>
+        <description><![CDATA[FID: 9<br>SL_NO: 10<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Pernankila -<br>LATITUDE: 13.3446<br>LONGITUDE: 74.8217<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Pernankila -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>9.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>10.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Pernankila -</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.3446</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.8217</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Pernankila -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.8217,13.3446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Hiriadka</name>
+        <description><![CDATA[FID: 10<br>SL_NO: 11<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Hiriyadka- Udupi Dist<br>LATITUDE: 13.3558<br>LONGITUDE: 74.8667<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Hiriadka -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>10.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>11.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Hiriyadka- Udupi Dist</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.3558</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.8667</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Hiriadka -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.8667,13.3558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Hirebettu</name>
+        <description><![CDATA[FID: 11<br>SL_NO: 12<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Hirebettu-<br>LATITUDE: 13.3188<br>LONGITUDE: 74.818<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Hirebettu -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>11.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>12.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Hirebettu-</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.3188</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.818</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Hirebettu -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.818,13.3188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Kukkehalli</name>
+        <description><![CDATA[FID: 12<br>SL_NO: 13<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Kukkehalli-<br>LATITUDE: 13.346<br>LONGITUDE: 74.758<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Kukkehalli -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>12.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>13.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Kukkehalli-</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.346</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.758</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Kukkehalli -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.758,13.346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Padubidri</name>
+        <description><![CDATA[FID: 13<br>SL_NO: 14<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Padubidri-<br>LATITUDE: 13.1412<br>LONGITUDE: 74.7693<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Padubidri -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>13.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>14.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Padubidri-</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.1412</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.7693</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Padubidri -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.7693,13.1412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Kaup</name>
+        <description><![CDATA[FID: 14<br>SL_NO: 15<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Kaup-<br>LATITUDE: 13.2393<br>LONGITUDE: 74.7518<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Kaup -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>14.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>15.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Kaup-</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.2393</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.7518</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Kaup -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.7518,13.2393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Mudarangadi</name>
+        <description><![CDATA[FID: 15<br>SL_NO: 16<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Mudarangadi Udupi Dist-<br>LATITUDE: 13.1671<br>LONGITUDE: 74.8144<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Mudarangadi -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>15.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>16.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Mudarangadi Udupi Dist-</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.1671</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.8144</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Mudarangadi -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.8144,13.1671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Kolalagiri</name>
+        <description><![CDATA[FID: 16<br>SL_NO: 17<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Kolalagiri-<br>LATITUDE: 13.3947<br>LONGITUDE: 74.7752<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Kolalagiri -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>16.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>17.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Kolalagiri-</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.3947</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.7752</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Kolalagiri -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.7752,13.3947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Barkur</name>
+        <description><![CDATA[FID: 17<br>SL_NO: 18<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Barkur-  Udupi Dist-<br>LATITUDE: 13.4703<br>LONGITUDE: 74.7543<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Barkur -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>17.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>18.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Barkur-  Udupi Dist-</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.4703</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.7543</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Barkur -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.7543,13.4703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Pethri</name>
+        <description><![CDATA[FID: 18<br>SL_NO: 19<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Petri -Udupi Dist-<br>LATITUDE: 13.4218<br>LONGITUDE: 74.8244<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Pethri -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>18.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>19.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Petri -Udupi Dist-</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.4218</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.8244</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Pethri -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.8244,13.4218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Sastana</name>
+        <description><![CDATA[FID: 19<br>SL_NO: 20<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Sasthana- Udupi dist- 576226<br>LATITUDE: 13.4681<br>LONGITUDE: 74.7159<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Sastana -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>19.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>20.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Sasthana- Udupi dist- 576226</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.4681</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.7159</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Sastana -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.7159,13.4681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Saibrakatte</name>
+        <description><![CDATA[FID: 20<br>SL_NO: 21<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Saibrakatte<br>LATITUDE: 13.5077<br>LONGITUDE: 74.7669<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Saibrakatte -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>20.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>21.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Saibrakatte</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.5077</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.7669</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Saibrakatte -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.7669,13.5077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Kokkarne</name>
+        <description><![CDATA[FID: 21<br>SL_NO: 22<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Kokkarne- Udupi dist.<br>LATITUDE: 13.4582<br>LONGITUDE: 74.8408<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Kokkarne -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>21.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>22.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Kokkarne- Udupi dist.</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.4582</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.8408</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Kokkarne -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.8408,13.4582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Avarse</name>
+        <description><![CDATA[FID: 22<br>SL_NO: 23<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Avarse- Udupi Dist.<br>LATITUDE: 13.5278<br>LONGITUDE: 74.8652<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Avarse -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>22.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>23.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Avarse- Udupi Dist.</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.5278</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.8652</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Avarse -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.8652,13.5278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Mandarthi</name>
+        <description><![CDATA[FID: 23<br>SL_NO: 24<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Mandarthi- Udupi Dist<br>LATITUDE: 13.4971<br>LONGITUDE: 74.8105<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Mandarthi -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>23.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>24.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Mandarthi- Udupi Dist</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.4971</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.8105</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Mandarthi -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.8105,13.4971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Karje</name>
+        <description><![CDATA[FID: 24<br>SL_NO: 26<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,Karje Primary Health Cente -<br>LATITUDE: 13.4313<br>LONGITUDE: 74.8806<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Karje -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>24.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>26.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,Karje Primary Health Cente -</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.4313</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.8806</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Karje -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.8806,13.4313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Saligrama</name>
+        <description><![CDATA[FID: 25<br>SL_NO: 27<br>TALUK_NAME: UDUPI<br>ADDRESS: Administrator Medical Officer,PHC Saligrama-576225<br>LATITUDE: 13.4991<br>LONGITUDE: 74.7107<br>PHC_CHC: PHC<br>PHC_NAME_disp:      Saligrama -  PHC]]></description>
+        <styleUrl>#icon-1808-880E4F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>25.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>27.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>UDUPI</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,PHC Saligrama-576225</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.4991</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.7107</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_NAME_disp">
+            <value>     Saligrama -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.7107,13.4991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Karkala</name>
+      <Placemark>
+        <name>    Karkala-GH  -  GH_TALUK_KARKALA</name>
+        <description><![CDATA[FID: 26<br>SL_NO: 28<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer ,GH Karkala, Near Bus Stand Karkala, Udupi Dist<br>LATITUDE: 13.2098<br>LONGITUDE: 75.001<br>PHC_CHC: GH TALUK KARKALA<br>PHC_CHC_DISP:     Karkala-GH  -  GH_TALUK_KARKALA]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>26.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>28.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer ,GH Karkala, Near Bus Stand Karkala, Udupi Dist</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.2098</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>75.001</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>GH TALUK KARKALA</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Karkala-GH  -  GH_TALUK_KARKALA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            75.001,13.2098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Kukkundoor  -  PHC</name>
+        <description><![CDATA[FID: 27<br>SL_NO: 29<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer,Primary Heatlh Center Kukkundoor, Karkala -<br>LATITUDE: 13.2239<br>LONGITUDE: 74.9671<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Kukkundoor  -  PHC]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>27.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>29.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,Primary Heatlh Center Kukkundoor, Karkala -</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.2239</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.9671</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Kukkundoor  -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.9671,13.2239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Bajagoli  -  PHC</name>
+        <description><![CDATA[FID: 28<br>SL_NO: 30<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer,Primary Heatlh Center Bajagoli, Karkala -<br>LATITUDE: 13.4746<br>LONGITUDE: 74.76<br>PHC_CHC: PHC<br>PHC_CHC_DISP:      Bajagoli  -  PHC]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>28.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>30.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,Primary Heatlh Center Bajagoli, Karkala -</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.4746</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.76</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>     Bajagoli  -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.76,13.4746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Mala  -  PHC</name>
+        <description><![CDATA[FID: 29<br>SL_NO: 31<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer,Primary Heatlh Center Mala, Karkala -<br>LATITUDE: 13.4746<br>LONGITUDE: 74.76<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Mala  -  PHC]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>29.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>31.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,Primary Heatlh Center Mala, Karkala -</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.4746</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.76</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Mala  -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.76,13.4746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Durga  -  PHC</name>
+        <description><![CDATA[FID: 30<br>SL_NO: 32<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer,Primary Heatlh Center Durga, Karkala -<br>LATITUDE: 13.2266<br>LONGITUDE: 75.0349<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Durga  -  PHC]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>30.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>32.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,Primary Heatlh Center Durga, Karkala -</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.2266</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>75.0349</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Durga  -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            75.0349,13.2266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Irvathoor  -  PHC</name>
+        <description><![CDATA[FID: 31<br>SL_NO: 33<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer,Primary Heatlh Center Irvathoor, Karkala<br>LATITUDE: 13.195<br>LONGITUDE: 74.9946<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Irvathoor  -  PHC]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>31.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>33.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,Primary Heatlh Center Irvathoor, Karkala</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.195</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.9946</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Irvathoor  -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.9946,13.195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Bailoor  -  PHC</name>
+        <description><![CDATA[FID: 32<br>SL_NO: 34<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer,Primary Heatlh Center Bailoor, Karkala<br>LATITUDE: 13.284<br>LONGITUDE: 74.715<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Bailoor  -  PHC]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>32.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>34.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,Primary Heatlh Center Bailoor, Karkala</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.284</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.715</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Bailoor  -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.715,13.284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Nitte  -  CHC</name>
+        <description><![CDATA[FID: 33<br>SL_NO: 35<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer ,Community Health Center Nitte, Nitte, Karkala-<br>LATITUDE: 13.1852<br>LONGITUDE: 74.9419<br>PHC_CHC: CHC<br>PHC_CHC_DISP:     Nitte  -  CHC]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>33.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>35.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer ,Community Health Center Nitte, Nitte, Karkala-</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.1852</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.9419</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>CHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Nitte  -  CHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.9419,13.1852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Belmannu  -  PHC</name>
+        <description><![CDATA[FID: 34<br>SL_NO: 36<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer,Primary Heatlh Center Belman, Karkala -<br>LATITUDE: 13.1679<br>LONGITUDE: 74.872<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Belmannu  -  PHC]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>34.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>36.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,Primary Heatlh Center Belman, Karkala -</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.1679</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.872</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Belmannu  -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.872,13.1679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Sacheripete  -  PHC</name>
+        <description><![CDATA[FID: 35<br>SL_NO: 37<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer,Primary Heatlh Center Sacheripete, Karkala<br>LATITUDE: 13.1137<br>LONGITUDE: 74.9047<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Sacheripete  -  PHC]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>35.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>37.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,Primary Heatlh Center Sacheripete, Karkala</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.1137</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.9047</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Sacheripete  -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.9047,13.1137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Palli  -  PHC</name>
+        <description><![CDATA[FID: 36<br>SL_NO: 38<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer,Primary Heatlh Center Palli, Karkala -<br>LATITUDE: 13.2558<br>LONGITUDE: 74.8574<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Palli  -  PHC]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>36.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>38.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,Primary Heatlh Center Palli, Karkala -</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.2558</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.8574</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Palli  -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.8574,13.2558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Nandalike  -  PHC</name>
+        <description><![CDATA[FID: 37<br>SL_NO: 39<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer,Primary Heatlh Center Nandalike, Karkala<br>LATITUDE: 13.1725<br>LONGITUDE: 74.8878<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Nandalike  -  PHC]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>37.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>39.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,Primary Heatlh Center Nandalike, Karkala</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.1725</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.8878</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Nandalike  -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.8878,13.1725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Idu  -  PHC</name>
+        <description><![CDATA[FID: 38<br>SL_NO: 40<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer,Primary Heatlh Center Idu, Karkala -<br>LATITUDE: 13.4746<br>LONGITUDE: 74.76<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Idu  -  PHC]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>38.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>40.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,Primary Heatlh Center Idu, Karkala -</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.4746</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.76</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Idu  -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.76,13.4746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Inna  -  PHC</name>
+        <description><![CDATA[FID: 39<br>SL_NO: 41<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer,Primary Heatlh Center Inna, Karkala -<br>LATITUDE: 13.1413<br>LONGITUDE: 74.8543<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Inna  -  PHC]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>39.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>41.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,Primary Heatlh Center Inna, Karkala -</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.1413</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.8543</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Inna  -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.8543,13.1413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Ajekar  -  PHC</name>
+        <description><![CDATA[FID: 40<br>SL_NO: 42<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer,Primary Heatlh Center Ajekar, Karkala -<br>LATITUDE: 13.3233<br>LONGITUDE: 75.001<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Ajekar  -  PHC]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>40.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>42.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,Primary Heatlh Center Ajekar, Karkala -</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.3233</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>75.001</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Ajekar  -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            75.001,13.3233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Hirgana  -  PHC</name>
+        <description><![CDATA[FID: 41<br>SL_NO: 43<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer,Primary Heatlh Center Hirgana, Karkala -<br>LATITUDE: 13.2726<br>LONGITUDE: 74.9845<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Hirgana  -  PHC]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>41.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>43.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,Primary Heatlh Center Hirgana, Karkala -</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.2726</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.9845</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Hirgana  -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.9845,13.2726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Dondarangadi  -  PHC</name>
+        <description><![CDATA[FID: 42<br>SL_NO: 44<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer,Primary Heatlh Center Donderangadi, Karkala<br>LATITUDE: 13.4746<br>LONGITUDE: 74.76<br>PHC_CHC: PHC<br>PHC_CHC_DISP:     Dondarangadi  -  PHC]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>42.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>44.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer,Primary Heatlh Center Donderangadi, Karkala</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.4746</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.76</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>PHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Dondarangadi  -  PHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.76,13.4746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>    Hebri  -  CHC</name>
+        <description><![CDATA[FID: 43<br>SL_NO: 45<br>TALUK_NAME: KARKALA<br>ADDRESS: Administrator Medical Officer ,Community Health Center Hebri, Karkala Taluk,<br>LATITUDE: 13.4746<br>LONGITUDE: 74.76<br>PHC_CHC: CHC<br>PHC_CHC_DISP:     Hebri  -  CHC]]></description>
+        <styleUrl>#icon-1808-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="FID">
+            <value>43.0</value>
+          </Data>
+          <Data name="SL_NO">
+            <value>45.0</value>
+          </Data>
+          <Data name="TALUK_NAME">
+            <value>KARKALA</value>
+          </Data>
+          <Data name="ADDRESS">
+            <value>Administrator Medical Officer ,Community Health Center Hebri, Karkala Taluk,</value>
+          </Data>
+          <Data name="LATITUDE">
+            <value>13.4746</value>
+          </Data>
+          <Data name="LONGITUDE">
+            <value>74.76</value>
+          </Data>
+          <Data name="PHC_CHC">
+            <value>CHC</value>
+          </Data>
+          <Data name="PHC_CHC_DISP">
+            <value>    Hebri  -  CHC</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            74.76,13.4746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Directions from Ideal Residency, Eshwar Nagar, Manipal, Karnataka to      Saligrama</name>
+      <Placemark>
+        <name>Directions from Ideal Residency, Eshwar Nagar, Manipal, Karnataka to      Saligrama</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            74.79614,13.3565,0
+            74.796,13.35647,0
+            74.79592,13.35646,0
+            74.79587,13.35646,0
+            74.79568,13.35647,0
+            74.7955,13.35649,0
+            74.79541,13.35649,0
+            74.79547,13.35605,0
+            74.79552,13.35563,0
+            74.79556,13.35529,0
+            74.79559,13.35498,0
+            74.79577,13.35502,0
+            74.79684,13.35516,0
+            74.79685,13.35509,0
+            74.79578,13.35495,0
+            74.7956,13.35492,0
+            74.79477,13.35478,0
+            74.79452,13.35474,0
+            74.79418,13.35469,0
+            74.79408,13.35468,0
+            74.79391,13.35463,0
+            74.79384,13.35462,0
+            74.79369,13.35459,0
+            74.79357,13.35455,0
+            74.79346,13.35452,0
+            74.79338,13.35448,0
+            74.79331,13.35445,0
+            74.79299,13.35419,0
+            74.79283,13.35404,0
+            74.79268,13.3539,0
+            74.79249,13.35371,0
+            74.79243,13.35367,0
+            74.79237,13.35363,0
+            74.79233,13.35362,0
+            74.79227,13.3536,0
+            74.79217,13.35357,0
+            74.79202,13.35357,0
+            74.79188,13.35359,0
+            74.79178,13.3536,0
+            74.7916,13.35362,0
+            74.79142,13.35363,0
+            74.79125,13.35362,0
+            74.79123,13.35361,0
+            74.7912,13.3536,0
+            74.79104,13.35355,0
+            74.79062,13.35341,0
+            74.78981,13.35309,0
+            74.78975,13.35307,0
+            74.78909,13.3528,0
+            74.78905,13.35278,0
+            74.78857,13.35258,0
+            74.78819,13.35243,0
+            74.78802,13.35238,0
+            74.78784,13.35233,0
+            74.78731,13.35232,0
+            74.78725,13.35232,0
+            74.78719,13.35233,0
+            74.78716,13.35235,0
+            74.78713,13.35235,0
+            74.78711,13.35236,0
+            74.78708,13.35236,0
+            74.78704,13.35236,0
+            74.78696,13.35235,0
+            74.7869,13.35234,0
+            74.78685,13.35232,0
+            74.78681,13.35229,0
+            74.78676,13.35225,0
+            74.78672,13.35221,0
+            74.78664,13.3521,0
+            74.78645,13.35185,0
+            74.78607,13.35137,0
+            74.78597,13.35121,0
+            74.78592,13.35114,0
+            74.78589,13.35107,0
+            74.78586,13.351,0
+            74.78583,13.35091,0
+            74.78581,13.35081,0
+            74.78579,13.35072,0
+            74.78579,13.35062,0
+            74.78584,13.3495,0
+            74.78584,13.34938,0
+            74.78583,13.34928,0
+            74.78582,13.3492,0
+            74.7858,13.34914,0
+            74.78577,13.34907,0
+            74.78568,13.34892,0
+            74.78563,13.34885,0
+            74.78558,13.34877,0
+            74.78552,13.3487,0
+            74.78549,13.34865,0
+            74.78538,13.34851,0
+            74.78507,13.34816,0
+            74.78494,13.34802,0
+            74.78475,13.34778,0
+            74.78459,13.34759,0
+            74.78445,13.34746,0
+            74.7844,13.3474,0
+            74.78434,13.34735,0
+            74.7843,13.34732,0
+            74.78421,13.34727,0
+            74.78409,13.34725,0
+            74.78397,13.34724,0
+            74.7839,13.34725,0
+            74.78379,13.34726,0
+            74.78372,13.34728,0
+            74.7837,13.34729,0
+            74.78368,13.34729,0
+            74.78366,13.3473,0
+            74.78359,13.34733,0
+            74.78353,13.34735,0
+            74.78345,13.34737,0
+            74.78329,13.34742,0
+            74.78319,13.34746,0
+            74.78309,13.34752,0
+            74.78303,13.34755,0
+            74.78296,13.3476,0
+            74.78283,13.34768,0
+            74.78263,13.34788,0
+            74.78252,13.34801,0
+            74.7823,13.34828,0
+            74.78224,13.34834,0
+            74.78217,13.3484,0
+            74.78212,13.34844,0
+            74.78205,13.34849,0
+            74.78195,13.34852,0
+            74.78189,13.34852,0
+            74.78182,13.34852,0
+            74.78145,13.34851,0
+            74.78122,13.34851,0
+            74.78101,13.3485,0
+            74.78076,13.34847,0
+            74.78,13.34838,0
+            74.77939,13.3483,0
+            74.77849,13.34821,0
+            74.77786,13.34815,0
+            74.77775,13.34813,0
+            74.77723,13.34806,0
+            74.77702,13.34803,0
+            74.77684,13.34799,0
+            74.77668,13.34795,0
+            74.77664,13.34794,0
+            74.7761,13.3478,0
+            74.77503,13.34753,0
+            74.77492,13.3475,0
+            74.77456,13.3474,0
+            74.77445,13.34737,0
+            74.77437,13.34733,0
+            74.77422,13.34727,0
+            74.77408,13.34718,0
+            74.77395,13.34711,0
+            74.77377,13.347,0
+            74.77362,13.34689,0
+            74.77343,13.34674,0
+            74.77334,13.34667,0
+            74.77327,13.3466,0
+            74.77318,13.34652,0
+            74.7731,13.34644,0
+            74.77289,13.34624,0
+            74.77274,13.3461,0
+            74.77259,13.34597,0
+            74.77252,13.34593,0
+            74.77241,13.34586,0
+            74.77226,13.34579,0
+            74.77186,13.34563,0
+            74.7717,13.34559,0
+            74.77145,13.34555,0
+            74.77105,13.34548,0
+            74.77067,13.34542,0
+            74.77053,13.34539,0
+            74.77036,13.34536,0
+            74.77023,13.34535,0
+            74.76979,13.34535,0
+            74.76863,13.3454,0
+            74.76828,13.34543,0
+            74.76786,13.34547,0
+            74.76765,13.34549,0
+            74.76698,13.34556,0
+            74.76677,13.34559,0
+            74.76646,13.34561,0
+            74.76612,13.34565,0
+            74.76591,13.34568,0
+            74.76547,13.34574,0
+            74.76496,13.34582,0
+            74.76494,13.34582,0
+            74.76442,13.34594,0
+            74.76407,13.34603,0
+            74.76401,13.34604,0
+            74.76294,13.34634,0
+            74.76286,13.34635,0
+            74.76277,13.34635,0
+            74.7627,13.34636,0
+            74.76263,13.34636,0
+            74.76253,13.34635,0
+            74.76222,13.34633,0
+            74.76212,13.34631,0
+            74.76189,13.34629,0
+            74.76142,13.34623,0
+            74.76102,13.34621,0
+            74.76078,13.3462,0
+            74.76022,13.34617,0
+            74.76009,13.34617,0
+            74.75954,13.34614,0
+            74.75912,13.34612,0
+            74.75863,13.34609,0
+            74.75837,13.34607,0
+            74.75812,13.34604,0
+            74.75801,13.34603,0
+            74.75772,13.346,0
+            74.75759,13.34598,0
+            74.75742,13.34595,0
+            74.75715,13.34589,0
+            74.75689,13.3458,0
+            74.7564,13.34563,0
+            74.75621,13.3456,0
+            74.75615,13.34559,0
+            74.75547,13.34557,0
+            74.7547,13.34555,0
+            74.75454,13.34555,0
+            74.75417,13.34554,0
+            74.75325,13.34553,0
+            74.75218,13.34553,0
+            74.75199,13.34552,0
+            74.75186,13.34551,0
+            74.75177,13.34549,0
+            74.75174,13.3456,0
+            74.75174,13.34566,0
+            74.75173,13.3459,0
+            74.75171,13.3461,0
+            74.75168,13.3464,0
+            74.75166,13.34655,0
+            74.75155,13.34731,0
+            74.75149,13.34794,0
+            74.75147,13.34807,0
+            74.75144,13.34825,0
+            74.75144,13.34835,0
+            74.75142,13.34875,0
+            74.75142,13.34892,0
+            74.7514,13.34916,0
+            74.75132,13.34996,0
+            74.75123,13.35056,0
+            74.7512,13.3508,0
+            74.7511,13.35143,0
+            74.75108,13.35187,0
+            74.75108,13.35194,0
+            74.75106,13.35223,0
+            74.75106,13.35231,0
+            74.75107,13.35261,0
+            74.75107,13.35267,0
+            74.75105,13.35331,0
+            74.75105,13.35353,0
+            74.75105,13.3536,0
+            74.75104,13.35398,0
+            74.75103,13.35413,0
+            74.75101,13.35441,0
+            74.75099,13.35468,0
+            74.75097,13.35482,0
+            74.75094,13.35493,0
+            74.75093,13.35497,0
+            74.75092,13.35502,0
+            74.75068,13.35564,0
+            74.75063,13.35579,0
+            74.7506,13.35585,0
+            74.75041,13.35628,0
+            74.75025,13.35664,0
+            74.75023,13.35669,0
+            74.75021,13.35675,0
+            74.74988,13.35755,0
+            74.74974,13.35789,0
+            74.74974,13.3579,0
+            74.7497,13.35801,0
+            74.74969,13.35803,0
+            74.74965,13.35819,0
+            74.7496,13.35835,0
+            74.74959,13.35848,0
+            74.74959,13.35861,0
+            74.74959,13.35876,0
+            74.74962,13.35901,0
+            74.74965,13.35924,0
+            74.74967,13.35938,0
+            74.74976,13.35994,0
+            74.7499,13.3608,0
+            74.74996,13.36121,0
+            74.75,13.3615,0
+            74.75001,13.36163,0
+            74.75002,13.36174,0
+            74.74997,13.36198,0
+            74.74994,13.36207,0
+            74.74991,13.36212,0
+            74.74985,13.3622,0
+            74.7498,13.36225,0
+            74.7497,13.3623,0
+            74.74967,13.36234,0
+            74.74964,13.36237,0
+            74.74959,13.36247,0
+            74.74949,13.36274,0
+            74.74949,13.36275,0
+            74.74944,13.36285,0
+            74.74942,13.36289,0
+            74.74934,13.36307,0
+            74.74923,13.36334,0
+            74.74913,13.36357,0
+            74.7491,13.36363,0
+            74.74897,13.36393,0
+            74.74896,13.36395,0
+            74.74887,13.36417,0
+            74.7488,13.36433,0
+            74.74873,13.36454,0
+            74.74867,13.36478,0
+            74.74842,13.36559,0
+            74.74837,13.36571,0
+            74.74825,13.366,0
+            74.74811,13.36636,0
+            74.74796,13.36672,0
+            74.74777,13.36723,0
+            74.74766,13.36754,0
+            74.74761,13.36774,0
+            74.74756,13.36797,0
+            74.74755,13.36815,0
+            74.74752,13.36835,0
+            74.74747,13.36883,0
+            74.74746,13.36898,0
+            74.74745,13.36908,0
+            74.74746,13.36959,0
+            74.74746,13.36965,0
+            74.74744,13.36978,0
+            74.74743,13.36986,0
+            74.7474,13.36998,0
+            74.74736,13.37011,0
+            74.7473,13.37031,0
+            74.7472,13.37053,0
+            74.7471,13.37076,0
+            74.74699,13.37095,0
+            74.74675,13.37129,0
+            74.74639,13.37175,0
+            74.74629,13.37188,0
+            74.74587,13.37221,0
+            74.74573,13.37226,0
+            74.7457,13.37241,0
+            74.74558,13.3727,0
+            74.74534,13.37317,0
+            74.74532,13.37322,0
+            74.74525,13.37333,0
+            74.74504,13.37365,0
+            74.74459,13.37431,0
+            74.74404,13.37493,0
+            74.74356,13.37541,0
+            74.74311,13.3758,0
+            74.74309,13.37581,0
+            74.74295,13.37591,0
+            74.74249,13.37619,0
+            74.74195,13.3765,0
+            74.74144,13.37686,0
+            74.74138,13.3769,0
+            74.74093,13.3773,0
+            74.74071,13.37752,0
+            74.74057,13.37766,0
+            74.74037,13.37789,0
+            74.73996,13.37842,0
+            74.73984,13.37859,0
+            74.73973,13.37876,0
+            74.73963,13.37894,0
+            74.73962,13.37896,0
+            74.73938,13.37915,0
+            74.73932,13.37928,0
+            74.73922,13.37948,0
+            74.73905,13.37987,0
+            74.73895,13.38013,0
+            74.73882,13.38056,0
+            74.73874,13.38084,0
+            74.73868,13.38114,0
+            74.73863,13.38141,0
+            74.7386,13.38165,0
+            74.73858,13.38183,0
+            74.73847,13.3828,0
+            74.73842,13.38326,0
+            74.73833,13.38396,0
+            74.73828,13.38439,0
+            74.73826,13.38457,0
+            74.73826,13.38481,0
+            74.73829,13.38509,0
+            74.7383,13.38517,0
+            74.73833,13.38543,0
+            74.73837,13.38555,0
+            74.73845,13.38578,0
+            74.73856,13.38603,0
+            74.73869,13.38629,0
+            74.73873,13.38635,0
+            74.73881,13.38648,0
+            74.73892,13.38664,0
+            74.73893,13.38666,0
+            74.73894,13.38666,0
+            74.73894,13.38667,0
+            74.73895,13.38667,0
+            74.73897,13.38668,0
+            74.73899,13.38668,0
+            74.73917,13.387,0
+            74.73927,13.38715,0
+            74.73934,13.38724,0
+            74.73945,13.38735,0
+            74.73965,13.38753,0
+            74.73981,13.38766,0
+            74.73999,13.3878,0
+            74.7402,13.38793,0
+            74.74038,13.38803,0
+            74.74054,13.3881,0
+            74.74067,13.38816,0
+            74.74085,13.38823,0
+            74.74091,13.38825,0
+            74.74109,13.3883,0
+            74.74139,13.38836,0
+            74.74162,13.38839,0
+            74.74171,13.3884,0
+            74.74174,13.38841,0
+            74.74198,13.38842,0
+            74.74286,13.38845,0
+            74.74358,13.38848,0
+            74.74363,13.38849,0
+            74.74421,13.38862,0
+            74.74509,13.38898,0
+            74.74622,13.38944,0
+            74.74709,13.38982,0
+            74.74763,13.39006,0
+            74.74828,13.39046,0
+            74.74852,13.39068,0
+            74.74877,13.39091,0
+            74.74911,13.39142,0
+            74.74913,13.39146,0
+            74.74933,13.39186,0
+            74.74952,13.39258,0
+            74.74955,13.39318,0
+            74.74956,13.39325,0
+            74.74957,13.3937,0
+            74.74958,13.39385,0
+            74.74967,13.3949,0
+            74.74973,13.39574,0
+            74.74982,13.39665,0
+            74.74987,13.39721,0
+            74.7499,13.3976,0
+            74.74991,13.39762,0
+            74.75,13.39847,0
+            74.75001,13.39866,0
+            74.75001,13.39885,0
+            74.75,13.39906,0
+            74.74998,13.3992,0
+            74.74998,13.39927,0
+            74.74995,13.3994,0
+            74.74994,13.39946,0
+            74.74991,13.39962,0
+            74.74985,13.39984,0
+            74.74976,13.4001,0
+            74.74968,13.40033,0
+            74.74956,13.40067,0
+            74.74953,13.40077,0
+            74.74934,13.40121,0
+            74.74926,13.40141,0
+            74.74919,13.40158,0
+            74.74908,13.40182,0
+            74.74898,13.40201,0
+            74.74888,13.40216,0
+            74.74879,13.40229,0
+            74.7487,13.40242,0
+            74.74866,13.40248,0
+            74.74859,13.40256,0
+            74.74845,13.40273,0
+            74.74835,13.40286,0
+            74.74814,13.40311,0
+            74.74791,13.40337,0
+            74.74757,13.40373,0
+            74.7472,13.40415,0
+            74.74689,13.40449,0
+            74.74669,13.40476,0
+            74.7466,13.40489,0
+            74.74649,13.40508,0
+            74.74645,13.40517,0
+            74.74641,13.40525,0
+            74.74637,13.40536,0
+            74.7463,13.40549,0
+            74.74618,13.40577,0
+            74.74609,13.40601,0
+            74.74606,13.40612,0
+            74.74605,13.40617,0
+            74.74597,13.40644,0
+            74.74588,13.40677,0
+            74.74557,13.40785,0
+            74.74549,13.4081,0
+            74.74546,13.40821,0
+            74.74542,13.40837,0
+            74.74541,13.40847,0
+            74.7454,13.40859,0
+            74.74536,13.40897,0
+            74.74536,13.40907,0
+            74.74532,13.41042,0
+            74.74533,13.41064,0
+            74.74533,13.41073,0
+            74.74531,13.41127,0
+            74.74528,13.4115,0
+            74.74525,13.41176,0
+            74.74518,13.4121,0
+            74.74515,13.41222,0
+            74.74514,13.41228,0
+            74.74511,13.41235,0
+            74.74508,13.41242,0
+            74.74502,13.41258,0
+            74.74501,13.41258,0
+            74.74479,13.41297,0
+            74.74473,13.41305,0
+            74.74469,13.41311,0
+            74.74462,13.4132,0
+            74.74425,13.41364,0
+            74.74419,13.41372,0
+            74.74382,13.41406,0
+            74.74334,13.41454,0
+            74.74272,13.4151,0
+            74.74262,13.41519,0
+            74.74211,13.41563,0
+            74.74182,13.4159,0
+            74.74171,13.41598,0
+            74.74151,13.41615,0
+            74.74129,13.41635,0
+            74.74113,13.41651,0
+            74.74091,13.41675,0
+            74.74085,13.41684,0
+            74.74068,13.41708,0
+            74.74057,13.41726,0
+            74.74047,13.41742,0
+            74.74038,13.41765,0
+            74.74033,13.41777,0
+            74.74029,13.41788,0
+            74.74025,13.41802,0
+            74.74019,13.41825,0
+            74.74015,13.41841,0
+            74.74013,13.41853,0
+            74.74011,13.41866,0
+            74.74009,13.41878,0
+            74.74008,13.41899,0
+            74.74007,13.41916,0
+            74.74006,13.41953,0
+            74.74006,13.41963,0
+            74.74005,13.4197,0
+            74.74004,13.41987,0
+            74.74001,13.42013,0
+            74.73998,13.42032,0
+            74.73993,13.42071,0
+            74.7399,13.42088,0
+            74.73986,13.42114,0
+            74.73979,13.42144,0
+            74.7397,13.42178,0
+            74.73965,13.42201,0
+            74.73955,13.42265,0
+            74.73953,13.42281,0
+            74.73953,13.42292,0
+            74.73952,13.42305,0
+            74.73953,13.4233,0
+            74.73953,13.42343,0
+            74.73953,13.42356,0
+            74.73956,13.42383,0
+            74.7396,13.42407,0
+            74.73974,13.42455,0
+            74.73989,13.42504,0
+            74.74003,13.4254,0
+            74.74005,13.42543,0
+            74.74033,13.42602,0
+            74.74057,13.42644,0
+            74.74092,13.4271,0
+            74.74132,13.42771,0
+            74.74153,13.42804,0
+            74.74162,13.42822,0
+            74.74191,13.42876,0
+            74.74212,13.42916,0
+            74.74224,13.42939,0
+            74.74239,13.42967,0
+            74.74248,13.42984,0
+            74.74268,13.43024,0
+            74.74285,13.43058,0
+            74.74306,13.43098,0
+            74.74318,13.43123,0
+            74.7434,13.43171,0
+            74.74357,13.43214,0
+            74.74369,13.43239,0
+            74.74373,13.43247,0
+            74.74396,13.43298,0
+            74.74431,13.43377,0
+            74.74439,13.43399,0
+            74.74442,13.43409,0
+            74.74445,13.4342,0
+            74.74447,13.4343,0
+            74.7445,13.43445,0
+            74.74451,13.43449,0
+            74.74453,13.43478,0
+            74.74453,13.43509,0
+            74.7445,13.43533,0
+            74.74445,13.43558,0
+            74.74441,13.43573,0
+            74.74435,13.43591,0
+            74.74431,13.43601,0
+            74.74427,13.43611,0
+            74.74422,13.43619,0
+            74.74422,13.43621,0
+            74.74414,13.43634,0
+            74.74407,13.43647,0
+            74.74399,13.43657,0
+            74.74396,13.43663,0
+            74.74378,13.43685,0
+            74.74354,13.43715,0
+            74.74352,13.43717,0
+            74.74333,13.43735,0
+            74.74307,13.43759,0
+            74.74291,13.43774,0
+            74.74253,13.43808,0
+            74.74246,13.43815,0
+            74.74238,13.43822,0
+            74.74226,13.43832,0
+            74.74207,13.43852,0
+            74.74187,13.43872,0
+            74.74176,13.43885,0
+            74.74171,13.43891,0
+            74.74158,13.43905,0
+            74.74129,13.43941,0
+            74.74113,13.43961,0
+            74.74091,13.4399,0
+            74.74079,13.44002,0
+            74.74042,13.44043,0
+            74.74037,13.44048,0
+            74.74025,13.44057,0
+            74.74017,13.44062,0
+            74.74015,13.44063,0
+            74.73976,13.44089,0
+            74.73974,13.4409,0
+            74.73957,13.44098,0
+            74.73942,13.44106,0
+            74.73884,13.44135,0
+            74.73753,13.44202,0
+            74.73687,13.44236,0
+            74.73603,13.4428,0
+            74.73516,13.44336,0
+            74.73468,13.44365,0
+            74.73465,13.44366,0
+            74.73437,13.44378,0
+            74.734,13.44387,0
+            74.7337,13.44393,0
+            74.73356,13.44395,0
+            74.73315,13.444,0
+            74.73218,13.44409,0
+            74.73083,13.4442,0
+            74.72999,13.44432,0
+            74.72958,13.44442,0
+            74.72928,13.44451,0
+            74.72907,13.44459,0
+            74.72886,13.44468,0
+            74.72858,13.44481,0
+            74.72814,13.44507,0
+            74.7279,13.44525,0
+            74.72759,13.44549,0
+            74.72725,13.44578,0
+            74.72702,13.44603,0
+            74.72678,13.44633,0
+            74.72663,13.44655,0
+            74.72649,13.44679,0
+            74.72639,13.44701,0
+            74.72634,13.44712,0
+            74.72625,13.44732,0
+            74.72612,13.44767,0
+            74.72603,13.44792,0
+            74.72596,13.44813,0
+            74.72583,13.44864,0
+            74.72556,13.44934,0
+            74.72554,13.44941,0
+            74.72545,13.4496,0
+            74.7253,13.44983,0
+            74.72517,13.45003,0
+            74.72499,13.45025,0
+            74.72473,13.45051,0
+            74.72449,13.45071,0
+            74.72434,13.45082,0
+            74.72395,13.45109,0
+            74.72356,13.45137,0
+            74.72355,13.45138,0
+            74.7234,13.45148,0
+            74.72316,13.45165,0
+            74.7229,13.45181,0
+            74.72251,13.45206,0
+            74.72212,13.45231,0
+            74.72172,13.45255,0
+            74.72153,13.45265,0
+            74.72124,13.45279,0
+            74.72097,13.45289,0
+            74.72065,13.45299,0
+            74.72019,13.45314,0
+            74.71981,13.45326,0
+            74.71943,13.45337,0
+            74.71914,13.45344,0
+            74.71905,13.45347,0
+            74.71883,13.45352,0
+            74.71867,13.45356,0
+            74.71845,13.45359,0
+            74.71831,13.45361,0
+            74.71815,13.45366,0
+            74.71784,13.45375,0
+            74.71742,13.45388,0
+            74.71706,13.45397,0
+            74.71667,13.45406,0
+            74.71644,13.45412,0
+            74.71605,13.45422,0
+            74.71565,13.45432,0
+            74.71485,13.45454,0
+            74.71413,13.45476,0
+            74.71373,13.45493,0
+            74.71343,13.45509,0
+            74.71317,13.45527,0
+            74.71285,13.45554,0
+            74.71259,13.45584,0
+            74.71247,13.45598,0
+            74.71216,13.45653,0
+            74.71202,13.45689,0
+            74.71197,13.45709,0
+            74.71194,13.45721,0
+            74.71192,13.45736,0
+            74.7119,13.45749,0
+            74.71189,13.45761,0
+            74.71188,13.45766,0
+            74.71188,13.45776,0
+            74.71187,13.45787,0
+            74.71188,13.45812,0
+            74.71189,13.45824,0
+            74.71191,13.45839,0
+            74.71195,13.45854,0
+            74.712,13.45874,0
+            74.71223,13.4594,0
+            74.71243,13.45983,0
+            74.71247,13.45992,0
+            74.71273,13.46053,0
+            74.71295,13.461,0
+            74.71316,13.46145,0
+            74.71338,13.46192,0
+            74.71364,13.46251,0
+            74.71375,13.46278,0
+            74.71389,13.46318,0
+            74.71404,13.4637,0
+            74.71414,13.4642,0
+            74.71428,13.46489,0
+            74.71434,13.46532,0
+            74.71436,13.46548,0
+            74.71436,13.46555,0
+            74.71436,13.4656,0
+            74.71437,13.46569,0
+            74.71436,13.46576,0
+            74.71436,13.46589,0
+            74.71435,13.46602,0
+            74.71428,13.46653,0
+            74.71424,13.46681,0
+            74.71418,13.46716,0
+            74.71406,13.46828,0
+            74.71406,13.46836,0
+            74.71398,13.46914,0
+            74.71395,13.4696,0
+            74.71394,13.46976,0
+            74.71385,13.4705,0
+            74.7138,13.47093,0
+            74.71378,13.47111,0
+            74.71366,13.47209,0
+            74.71352,13.47329,0
+            74.71347,13.47363,0
+            74.71339,13.47424,0
+            74.71329,13.47485,0
+            74.71327,13.47497,0
+            74.71321,13.47529,0
+            74.71301,13.47642,0
+            74.71288,13.47718,0
+            74.71277,13.4778,0
+            74.71273,13.47808,0
+            74.71266,13.47853,0
+            74.71264,13.47865,0
+            74.71259,13.47907,0
+            74.71258,13.47944,0
+            74.71257,13.47965,0
+            74.71257,13.47976,0
+            74.71257,13.48073,0
+            74.71257,13.48081,0
+            74.71257,13.48083,0
+            74.71257,13.48089,0
+            74.71257,13.48098,0
+            74.71256,13.48123,0
+            74.71255,13.48145,0
+            74.71255,13.4818,0
+            74.71255,13.48182,0
+            74.71249,13.48253,0
+            74.71242,13.48312,0
+            74.71233,13.48379,0
+            74.71231,13.4839,0
+            74.71229,13.48403,0
+            74.71217,13.48468,0
+            74.7121,13.48508,0
+            74.71198,13.48573,0
+            74.71185,13.4865,0
+            74.7116,13.48781,0
+            74.71151,13.48821,0
+            74.71144,13.48848,0
+            74.71137,13.48872,0
+            74.71119,13.48927,0
+            74.71113,13.48943,0
+            74.71098,13.48989,0
+            74.71087,13.49031,0
+            74.71075,13.49088,0
+            74.71072,13.4911,0
+            74.71065,13.49157,0
+            74.71056,13.49201,0
+            74.71052,13.49228,0
+            74.71049,13.49257,0
+            74.71042,13.49323,0
+            74.71039,13.49348,0
+            74.71034,13.49393,0
+            74.71025,13.49453,0
+            74.7102,13.49524,0
+            74.71021,13.49556,0
+            74.71021,13.49576,0
+            74.71023,13.49606,0
+            74.71023,13.49621,0
+            74.71025,13.49629,0
+            74.71035,13.49693,0
+            74.7104,13.49716,0
+            74.71045,13.49748,0
+            74.71047,13.49768,0
+            74.71048,13.49791,0
+            74.71049,13.49808,0
+            74.71045,13.49851,0
+            74.71039,13.49869,0
+            74.71022,13.49926,0
+            74.71011,13.49957,0
+            74.71001,13.4998,0
+            74.70994,13.49993,0
+            74.70981,13.50019,0
+            74.70961,13.50054,0
+            74.70942,13.50092,0
+            74.70934,13.50107,0
+            74.70932,13.50112,0
+            74.70914,13.50154,0
+            74.70903,13.50181,0
+            74.70844,13.5034,0
+            74.70833,13.50371,0
+            74.70825,13.50397,0
+            74.70806,13.5046,0
+            74.70788,13.50517,0
+            74.70779,13.50546,0
+            74.70779,13.50548,0
+            74.70768,13.50581,0
+            74.70757,13.50623,0
+            74.70754,13.50637,0
+            74.7075,13.50662,0
+            74.70748,13.50673,0
+            74.70747,13.50689,0
+            74.70745,13.50715,0
+            74.70745,13.50748,0
+            74.70745,13.50791,0
+            74.70745,13.50805,0
+            74.70745,13.50866,0
+            74.70742,13.50889,0
+            74.70752,13.50889,0
+            74.70756,13.50854,0
+            74.70757,13.50829,0
+            74.70757,13.50787,0
+            74.70756,13.50738,0
+            74.70758,13.50705,0
+            74.70756,13.50697,0
+            74.70756,13.50674,0
+            74.70757,13.50653,0
+            74.70762,13.50628,0
+            74.70773,13.5059,0
+            74.70786,13.50552,0
+            74.70795,13.5052,0
+            74.70801,13.50502,0
+            74.70858,13.50356,0
+            74.70899,13.50229,0
+            74.70916,13.50179,0
+            74.70932,13.50139,0
+            74.7094,13.50122,0
+            74.70949,13.50105,0
+            74.70951,13.501,0
+            74.70958,13.50087,0
+            74.70975,13.50053,0
+            74.70996,13.5002,0
+            74.71007,13.49999,0
+            74.71008,13.49998,0
+            74.71022,13.49965,0
+            74.71032,13.49935,0
+            74.71041,13.49903,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ideal Residency, Eshwar Nagar, Manipal, Karnataka</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            74.7961361,13.3564951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>     Saligrama</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            74.710408,13.4990254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

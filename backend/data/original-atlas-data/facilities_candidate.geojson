@@ -1,0 +1,1673 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7979,
+          13.5848
+        ]
+      },
+      "properties": {
+        "name": "Bidkalkatte",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer,PHC Bidkalkatte, Near Bus Stand, Kundapura Taluk, Udupi Dist, Pin-",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "67",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6711,
+          13.6478
+        ]
+      },
+      "properties": {
+        "name": "Kundapura GH",
+        "type": "GH TALUK KUNDAPURA",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer ,GH Kundapura, OPP: Parijatha Circle Kundapura Taluk, Udupi Dist",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "44",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 100,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6878,
+          13.6275
+        ]
+      },
+      "properties": {
+        "name": "KODI",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer,PHC Kodi, Near Bearys School Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "45",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6983,
+          13.59
+        ]
+      },
+      "properties": {
+        "name": "KOTESHWARA",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer,PHC Koteshwara, Haladi Road, Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "46",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.701,
+          13.5658
+        ]
+      },
+      "properties": {
+        "name": "Kumbhashi",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer,PHC Kumbashi, Near Kumbashi Temple Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "47",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.735,
+          13.628
+        ]
+      },
+      "properties": {
+        "name": "Basrur",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer,PHC Basroor,Near Bus Stand, Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "48",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6265,
+          13.8709
+        ]
+      },
+      "properties": {
+        "name": "Byndoor",
+        "type": "CHC",
+        "taluk": "Bainduru",
+        "address": "Administrator Medical Officer CHC Byndoor, Opp: Govt Junior College, Byndoor, Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "49",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 50,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.638,
+          13.7883
+        ]
+      },
+      "properties": {
+        "name": "Kirimanjeshwara",
+        "type": "PHC",
+        "taluk": "Bainduru",
+        "address": "Administrator Medical Officer,PHC Kirimanjeshwara, Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "50",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.656,
+          13.665
+        ]
+      },
+      "properties": {
+        "name": "Maravanthe",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer,PHC Maravanthe, Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "51",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6434,
+          13.7013
+        ]
+      },
+      "properties": {
+        "name": "Gangolli",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer,PHC Gangolli, Opp Syndicate Bank, Gangolli, Kundapura Taluk, Udupi Dist.",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "52",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6487,
+          13.715
+        ]
+      },
+      "properties": {
+        "name": "Nada",
+        "type": "PHC",
+        "taluk": "Bainduru",
+        "address": "Administrator Medical Officer,PHC Nada, Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "53",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8099,
+          13.8615
+        ]
+      },
+      "properties": {
+        "name": "Kollur",
+        "type": "PHC",
+        "taluk": "Bainduru",
+        "address": "Administrator Medical Officer,PHC Kollur, Near Bus Stand, Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "54",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.761,
+          13.7047
+        ]
+      },
+      "properties": {
+        "name": "Vandse",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer,PHC Vandse, Near Grama Panchayath Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "55",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7204,
+          13.676
+        ]
+      },
+      "properties": {
+        "name": "Aloor",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer,PHC Aloor, Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "56",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7112,
+          13.6986
+        ]
+      },
+      "properties": {
+        "name": "HAKLADY",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer,PHC Hakladi, Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "57",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9144,
+          13.6658
+        ]
+      },
+      "properties": {
+        "name": "Siddapura",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer,PHC Siddapura, Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "58",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6885,
+          13.7016
+        ]
+      },
+      "properties": {
+        "name": "Shankaranarayana",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer,PHC Hakladi, Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "59",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.772,
+          13.635
+        ]
+      },
+      "properties": {
+        "name": "KANDLURU",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer,PHC Kandloor, Near Bus Stand, Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "60",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.902,
+          13.7402
+        ]
+      },
+      "properties": {
+        "name": "HALLIHOLE",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer,PHC Hallihole, Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "61",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8608,
+          13.5791
+        ]
+      },
+      "properties": {
+        "name": "Haladi",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer,PHC Haladi, Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "62",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9218,
+          13.5279
+        ]
+      },
+      "properties": {
+        "name": "Belve",
+        "type": "PHC",
+        "taluk": "Hebri",
+        "address": "Administrator Medical Officer,PHC Belve, Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "63",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7664,
+          13.5665
+        ]
+      },
+      "properties": {
+        "name": "Korgi",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer,PHC Korgi, Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "64",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.74,
+          13.5546
+        ]
+      },
+      "properties": {
+        "name": "Kedur",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Administrator Medical Officer,PHC Kedoor, Near Govt Primary School Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "65",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6028,
+          13.9146
+        ]
+      },
+      "properties": {
+        "name": "Shiroor",
+        "type": "CHC",
+        "taluk": "Bainduru",
+        "address": "Administrator Medical Officer,PHC Shiroor, Near Grama Panchayath, Kundapura Taluk, Udupi Dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "66",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 30,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7415,
+          13.3339
+        ]
+      },
+      "properties": {
+        "name": "District Hosp.Udupi",
+        "type": "DHO",
+        "taluk": "Udupi",
+        "address": "Ajjarkadu Hospital Compound,  Near DHO- Office, Udupi.",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "0",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 250,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7087,
+          13.3994
+        ]
+      },
+      "properties": {
+        "name": "Kemmannu",
+        "type": "PHC",
+        "taluk": "Udupi",
+        "address": "Administrator Medical Officer,PHC Kemmannu-Udupi Dist .",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "1",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7426,
+          13.4319
+        ]
+      },
+      "properties": {
+        "name": "Brahmavara",
+        "type": "CHC",
+        "taluk": "Bramhavara",
+        "address": "Administrator Medical Officer, CHC Brahmavar,Near  Bus Stand - Udupi Dist- 576213",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "2",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 30,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7048,
+          13.5231
+        ]
+      },
+      "properties": {
+        "name": "Kota",
+        "type": "CHC",
+        "taluk": "Bramhavara",
+        "address": "Administrator Medical Officer ,CHC Kota Near Police Station Udupi Dist",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "3",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 30,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7518,
+          13.2716
+        ]
+      },
+      "properties": {
+        "name": "Moodubettu",
+        "type": "PHC",
+        "taluk": "Kapu",
+        "address": "Administrator Medical Officer,PHC Moodabettu Udupi Dist",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "4",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.706,
+          13.352
+        ]
+      },
+      "properties": {
+        "name": "Malpe",
+        "type": "PHC",
+        "taluk": "Udupi",
+        "address": "Administrator Medical Officer,PHC Malpe-Udupi Dist",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "5",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 4,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8203,
+          13.2204
+        ]
+      },
+      "properties": {
+        "name": "Shirva",
+        "type": "CHC",
+        "taluk": "Kapu",
+        "address": "Administrator Medical Officer  ,CHC Shirva- Udupi Dist-",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "6",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 30,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6946,
+          13.4383
+        ]
+      },
+      "properties": {
+        "name": "Kodibengre",
+        "type": "PHC",
+        "taluk": "Bramhavara",
+        "address": "Administrator Medical Officer,PHC kodibengre- Udupi dist",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "7",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8547,
+          13.3551
+        ]
+      },
+      "properties": {
+        "name": "Manipura",
+        "type": "PHC",
+        "taluk": "Udupi",
+        "address": "Administrator Medical Officer,PHC Manipura, Udupi dist,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "8",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8217,
+          13.3446
+        ]
+      },
+      "properties": {
+        "name": "Pernankila",
+        "type": "PHC",
+        "taluk": "Udupi",
+        "address": "Administrator Medical Officer,PHC Pernankila -",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "9",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8667,
+          13.3558
+        ]
+      },
+      "properties": {
+        "name": "Hiriadka",
+        "type": "PHC",
+        "taluk": "Udupi",
+        "address": "Administrator Medical Officer,PHC Hiriyadka- Udupi Dist",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "10",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.818,
+          13.3188
+        ]
+      },
+      "properties": {
+        "name": "Hirebettu",
+        "type": "PHC",
+        "taluk": "Udupi",
+        "address": "Administrator Medical Officer,PHC Hirebettu-",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "11",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.758,
+          13.346
+        ]
+      },
+      "properties": {
+        "name": "Kukkehalli",
+        "type": "PHC",
+        "taluk": "Udupi",
+        "address": "Administrator Medical Officer,PHC Kukkehalli-",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "12",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7693,
+          13.1412
+        ]
+      },
+      "properties": {
+        "name": "Padubidri",
+        "type": "PHC",
+        "taluk": "Kapu",
+        "address": "Administrator Medical Officer,PHC Padubidri-",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "13",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7518,
+          13.2393
+        ]
+      },
+      "properties": {
+        "name": "Kaup",
+        "type": "PHC",
+        "taluk": "Kapu",
+        "address": "Administrator Medical Officer,PHC Kaup-",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "14",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8144,
+          13.1671
+        ]
+      },
+      "properties": {
+        "name": "Mudarangadi",
+        "type": "PHC",
+        "taluk": "Kapu",
+        "address": "Administrator Medical Officer,PHC Mudarangadi Udupi Dist-",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "15",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7752,
+          13.3947
+        ]
+      },
+      "properties": {
+        "name": "Kolalagiri",
+        "type": "PHC",
+        "taluk": "Bramhavara",
+        "address": "Administrator Medical Officer,PHC Kolalagiri-",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "16",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7543,
+          13.4703
+        ]
+      },
+      "properties": {
+        "name": "Barkur",
+        "type": "PHC",
+        "taluk": "Bramhavara",
+        "address": "Administrator Medical Officer,PHC Barkur-  Udupi Dist-",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "17",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8244,
+          13.4218
+        ]
+      },
+      "properties": {
+        "name": "Pethri",
+        "type": "PHC",
+        "taluk": "Bramhavara",
+        "address": "Administrator Medical Officer,PHC Petri -Udupi Dist-",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "18",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7159,
+          13.4681
+        ]
+      },
+      "properties": {
+        "name": "Sastana",
+        "type": "PHC",
+        "taluk": "Bramhavara",
+        "address": "Administrator Medical Officer,PHC Sasthana- Udupi dist- 576226",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "19",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7669,
+          13.5077
+        ]
+      },
+      "properties": {
+        "name": "Saibrakatte",
+        "type": "PHC",
+        "taluk": "Bramhavara",
+        "address": "Administrator Medical Officer,PHC Saibrakatte",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "20",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8408,
+          13.4582
+        ]
+      },
+      "properties": {
+        "name": "Kokkarne",
+        "type": "PHC",
+        "taluk": "Bramhavara",
+        "address": "Administrator Medical Officer,PHC Kokkarne- Udupi dist.",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "21",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8652,
+          13.5278
+        ]
+      },
+      "properties": {
+        "name": "Avarse",
+        "type": "PHC",
+        "taluk": "Bramhavara",
+        "address": "Administrator Medical Officer,PHC Avarse- Udupi Dist.",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "22",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8105,
+          13.4971
+        ]
+      },
+      "properties": {
+        "name": "Mandarthi",
+        "type": "PHC",
+        "taluk": "Bramhavara",
+        "address": "Administrator Medical Officer,PHC Mandarthi- Udupi Dist",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "23",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8806,
+          13.4313
+        ]
+      },
+      "properties": {
+        "name": "Karje",
+        "type": "PHC",
+        "taluk": "Bramhavara",
+        "address": "Administrator Medical Officer,Karje Primary Health Cente -",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "24",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7107,
+          13.4991
+        ]
+      },
+      "properties": {
+        "name": "Saligrama",
+        "type": "PHC",
+        "taluk": "Bramhavara",
+        "address": "Administrator Medical Officer,PHC Saligrama-576225",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "25",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.001,
+          13.2098
+        ]
+      },
+      "properties": {
+        "name": "Karkala-GH  -  GH_TALUK_KARKALA",
+        "type": "GH TALUK KARKALA",
+        "taluk": "Karkala",
+        "address": "Administrator Medical Officer ,GH Karkala, Near Bus Stand Karkala, Udupi Dist",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "26",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 100,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9671,
+          13.2239
+        ]
+      },
+      "properties": {
+        "name": "Kukkundoor  -  PHC",
+        "type": "PHC",
+        "taluk": "Karkala",
+        "address": "Administrator Medical Officer,Primary Heatlh Center Kukkundoor, Karkala -",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "27",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.072,
+          13.225
+        ]
+      },
+      "properties": {
+        "name": "Bajagoli  -  PHC",
+        "type": "PHC",
+        "taluk": "Karkala",
+        "address": "Administrator Medical Officer,Primary Heatlh Center Bajagoli, Karkala -",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "28",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.115,
+          13.235
+        ]
+      },
+      "properties": {
+        "name": "Mala  -  PHC",
+        "type": "PHC",
+        "taluk": "Karkala",
+        "address": "Administrator Medical Officer,Primary Heatlh Center Mala, Karkala -",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "29",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0349,
+          13.2266
+        ]
+      },
+      "properties": {
+        "name": "Durga  -  PHC",
+        "type": "PHC",
+        "taluk": "Karkala",
+        "address": "Administrator Medical Officer,Primary Heatlh Center Durga, Karkala -",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "30",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9946,
+          13.195
+        ]
+      },
+      "properties": {
+        "name": "Irvathoor  -  PHC",
+        "type": "PHC",
+        "taluk": "Karkala",
+        "address": "Administrator Medical Officer,Primary Heatlh Center Irvathoor, Karkala",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "31",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.948,
+          13.272
+        ]
+      },
+      "properties": {
+        "name": "Bailoor  -  PHC",
+        "type": "PHC",
+        "taluk": "Karkala",
+        "address": "Administrator Medical Officer,Primary Heatlh Center Bailoor, Karkala",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "32",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9419,
+          13.1852
+        ]
+      },
+      "properties": {
+        "name": "Nitte  -  CHC",
+        "type": "CHC",
+        "taluk": "Karkala",
+        "address": "Administrator Medical Officer ,Community Health Center Nitte, Nitte, Karkala-",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "33",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 30,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.872,
+          13.1679
+        ]
+      },
+      "properties": {
+        "name": "Belmannu  -  PHC",
+        "type": "PHC",
+        "taluk": "Karkala",
+        "address": "Administrator Medical Officer,Primary Heatlh Center Belman, Karkala -",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "34",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9047,
+          13.1137
+        ]
+      },
+      "properties": {
+        "name": "Sacheripete  -  PHC",
+        "type": "PHC",
+        "taluk": "Karkala",
+        "address": "Administrator Medical Officer,Primary Heatlh Center Sacheripete, Karkala",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "35",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8574,
+          13.2558
+        ]
+      },
+      "properties": {
+        "name": "Palli  -  PHC",
+        "type": "PHC",
+        "taluk": "Karkala",
+        "address": "Administrator Medical Officer,Primary Heatlh Center Palli, Karkala -",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "36",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8878,
+          13.1725
+        ]
+      },
+      "properties": {
+        "name": "Nandalike  -  PHC",
+        "type": "PHC",
+        "taluk": "Karkala",
+        "address": "Administrator Medical Officer,Primary Heatlh Center Nandalike, Karkala",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "37",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.095,
+          13.185
+        ]
+      },
+      "properties": {
+        "name": "Idu  -  PHC",
+        "type": "PHC",
+        "taluk": "Karkala",
+        "address": "Administrator Medical Officer,Primary Heatlh Center Idu, Karkala -",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "38",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8543,
+          13.1413
+        ]
+      },
+      "properties": {
+        "name": "Inna  -  PHC",
+        "type": "PHC",
+        "taluk": "Karkala",
+        "address": "Administrator Medical Officer,Primary Heatlh Center Inna, Karkala -",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "39",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.001,
+          13.3233
+        ]
+      },
+      "properties": {
+        "name": "Ajekar  -  PHC",
+        "type": "PHC",
+        "taluk": "Karkala",
+        "address": "Administrator Medical Officer,Primary Heatlh Center Ajekar, Karkala -",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "40",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9845,
+          13.2726
+        ]
+      },
+      "properties": {
+        "name": "Hirgana  -  PHC",
+        "type": "PHC",
+        "taluk": "Karkala",
+        "address": "Administrator Medical Officer,Primary Heatlh Center Hirgana, Karkala -",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "41",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.965,
+          13.395
+        ]
+      },
+      "properties": {
+        "name": "Dondarangadi  -  PHC",
+        "type": "PHC",
+        "taluk": "Hebri",
+        "address": "Administrator Medical Officer,Primary Heatlh Center Donderangadi, Karkala",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "42",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 6,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.995,
+          13.458
+        ]
+      },
+      "properties": {
+        "name": "Hebri  -  CHC",
+        "type": "CHC",
+        "taluk": "Hebri",
+        "address": "Administrator Medical Officer ,Community Health Center Hebri, Karkala Taluk,",
+        "source": "User-provided KML: UDUPI DIST HEALTH UNITS.kml",
+        "source_fid": "43",
+        "coordinate_status": "coordinates_present; source location not independently verified",
+        "beds": 30,
+        "ownership": "Government"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.792,
+          13.3535
+        ]
+      },
+      "properties": {
+        "name": "Kasturba Hospital (KMC), Manipal",
+        "type": "Private Tertiary Hospital",
+        "taluk": "Udupi",
+        "address": "Madhav Nagar, Manipal, Udupi Dist",
+        "beds": 2032,
+        "ownership": "Private",
+        "source": "Researched & Supplied Capacity Register",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.738,
+          13.344
+        ]
+      },
+      "properties": {
+        "name": "Koosamma Shambhu Shetty Memorial Mother & Child Hospital",
+        "type": "Government MCH Hospital",
+        "taluk": "Udupi",
+        "address": "Brahmagiri / Udupi City",
+        "beds": 200,
+        "ownership": "Government",
+        "source": "Researched & Supplied Capacity Register",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.762,
+          13.332
+        ]
+      },
+      "properties": {
+        "name": "Adarsha Multispeciality Hospital",
+        "type": "Private Multi-Speciality",
+        "taluk": "Udupi",
+        "address": "Udupi Chitpadi / NH-66, Udupi",
+        "beds": 200,
+        "ownership": "Private",
+        "source": "Researched & Supplied Capacity Register",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.755,
+          13.349
+        ]
+      },
+      "properties": {
+        "name": "Mitra Hospital",
+        "type": "Private Multi-Speciality",
+        "taluk": "Udupi",
+        "address": "Old Diana Circle, Udupi",
+        "beds": 150,
+        "ownership": "Private",
+        "source": "Researched & Supplied Capacity Register",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.734,
+          13.321
+        ]
+      },
+      "properties": {
+        "name": "C.S.I. Lombard Memorial Hospital",
+        "type": "Private Mission Hospital",
+        "taluk": "Udupi",
+        "address": "Mission Compound, Udupi",
+        "beds": 150,
+        "ownership": "Private",
+        "source": "Researched & Supplied Capacity Register",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.751,
+          13.318
+        ]
+      },
+      "properties": {
+        "name": "City Hospital",
+        "type": "Private Multi-Speciality",
+        "taluk": "Udupi",
+        "address": "Court Road, Udupi",
+        "beds": 120,
+        "ownership": "Private",
+        "source": "Researched & Supplied Capacity Register",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.769,
+          13.344
+        ]
+      },
+      "properties": {
+        "name": "Dr. T.M.A. Pai Hospital, Udupi",
+        "type": "Private General Hospital",
+        "taluk": "Udupi",
+        "address": "Court Road, Udupi",
+        "beds": 110,
+        "ownership": "Private",
+        "source": "Researched & Supplied Capacity Register",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.985,
+          13.202
+        ]
+      },
+      "properties": {
+        "name": "Dr. T.M.A. Pai Rotary Hospital, Karkala",
+        "type": "Private General Hospital",
+        "taluk": "Karkala",
+        "address": "Danashala, Karkala",
+        "beds": 110,
+        "ownership": "Private",
+        "source": "Researched & Supplied Capacity Register",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.756,
+          13.438
+        ]
+      },
+      "properties": {
+        "name": "Mahesh Hospital, Brahmavara",
+        "type": "Private Multi-Speciality",
+        "taluk": "Bramhavara",
+        "address": "NH-66, Brahmavara",
+        "beds": 80,
+        "ownership": "Private",
+        "source": "Researched & Supplied Capacity Register",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.685,
+          13.635
+        ]
+      },
+      "properties": {
+        "name": "Chinmayi Hospital, Kundapura",
+        "type": "Private Multi-Speciality",
+        "taluk": "Kundapur",
+        "address": "NH-66, Kundapura",
+        "beds": 80,
+        "ownership": "Private",
+        "source": "Researched & Supplied Capacity Register",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.725,
+          13.652
+        ]
+      },
+      "properties": {
+        "name": "Hattiyangadi Primary Health Centre",
+        "type": "PHC",
+        "taluk": "Kundapur",
+        "address": "Hattiyangadi, Kundapura Taluk",
+        "beds": 6,
+        "ownership": "Government",
+        "source": "Researched & Supplied Capacity Register",
+        "coordinate_status": "verified"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.749,
+          13.337
+        ]
+      },
+      "properties": {
+        "name": "Maruti Veethika Urban Primary Health Centre",
+        "type": "UPHC",
+        "taluk": "Udupi",
+        "address": "Maruti Veethika, Udupi City",
+        "beds": 4,
+        "ownership": "Government",
+        "source": "Researched & Supplied Capacity Register",
+        "coordinate_status": "verified"
+      }
+    }
+  ]
+}

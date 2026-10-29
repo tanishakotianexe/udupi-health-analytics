@@ -1,0 +1,7 @@
+UDUPI ATLAS — DATA SOURCES AND LIMITATIONS
+
+HMIS monthly health indicators: https://dataful.in/datasets/16586/ ; original source portal https://hmis.nhp.gov.in/
+Geographic boundaries: user-provided KARNATAKA.zip; village features filtered to District=Udupi and dissolved by Sub_dist.
+Census 2011 workbook: user-provided 2011-IndiaStateDistSbDistTwnWrd-0000.xlsx. It is not yet joined to taluk polygons because code/name concordance must be verified before publishing population comparisons.
+Candidate facility coordinates: https://www.latlong.net/pois/in/udupi/hospitals ; page lists 30 hospitals and explicitly warns coordinate accuracy is not guaranteed. These are shown as candidate locations, not a complete or officially verified facility register. Duplicate/near-duplicate listings may exist. Cross-check against official district PHC page https://udupi.nic.in/en/phc/ and Karnataka HFW PHC list https://hfwcom.karnataka.gov.in/storage/pdf-files/GDMOVACANCYFINAL-WEB.pdf .
+All HMIS charts use only category=Total and facility_category=Public and Private Facilities OR Rural and Urban Facilities to avoid adding overlapping reporting groups. Missing values are not changed to zero.
