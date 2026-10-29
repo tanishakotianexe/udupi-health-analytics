@@ -7,8 +7,6 @@
 
 A visual healthcare analytics application for exploring facility locations, service activity, and district health trends across Udupi, Karnataka.
 
-https://udupi-health-analytics-demo.onrender.com/?check=1
-
 ## Stack
 
 - **Frontend:** React, Vite, Recharts, React Leaflet
